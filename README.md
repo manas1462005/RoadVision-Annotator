@@ -33,5 +33,7 @@ python visualize.py
 
 Images display until you click the arrow keys to move to next image — press q to quit early.
 
+---
+
 ## SAMPLE
 ![alt text](image.png)
